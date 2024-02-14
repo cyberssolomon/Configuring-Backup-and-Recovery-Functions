@@ -6,7 +6,7 @@
 - <b>pfSense</b>
 - <b>Wbadmin</b> 
 - <b>NFS </b>
-- <b>Vi Editor (</b>
+- <b>Vi Editor </b>
 
  
 
