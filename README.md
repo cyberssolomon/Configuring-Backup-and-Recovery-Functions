@@ -5,7 +5,7 @@
 - <b>Windows Server Backup (GPMC)</b> 
 - <b>pfSense</b>
 - <b>Wbadmin</b> 
-- <b>NFS (</b
+- <b>NFS </b>
 - <b>Vi Editor (</b>
 
  
