@@ -99,7 +99,7 @@ Show the updated webserver01 home page:  <br/>
 <br />
 <br />
 Show the updated webserver02 home page: <br/>
-<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
+<img src="https://i.imgur.com/CJe4Bve.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
  <h2>Configure Load Balancing:</h2>
@@ -115,15 +115,15 @@ Show the updated webserver02 home page: <br/>
 
 <p align="center">
 Show the http_server_pool backend: <br/>
-<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
+<img src="https://i.imgur.com/j3gOMWZ.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the http_access frontend: <br/>
-<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
+<img src="https://i.imgur.com/Sc96iCI.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the new Host Overrides entry for cscd.securelabsondemand.com: <br/>
-<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
+<img src="https://i.imgur.com/W19Gc6V.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 <h2>Verify Load Balancing:</h2>
@@ -139,11 +139,11 @@ Show the new Host Overrides entry for cscd.securelabsondemand.com: <br/>
 
 <p align="center">
 Show the result of the DNS query for cscd.securelabsondemand.com: <br/>
-<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
+<img src="https://i.imgur.com/X9W7Wep.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the Statistics Report with a value of at least 1 in the Sessions > Total column of the http_server_pool_ipvANY box, for both webserver01 and webserver02: <br/>
-<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
+<img src="https://i.imgur.com/vQ0esW4.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 
@@ -168,7 +168,7 @@ Show the Statistics Report with a value of at least 1 in the Sessions > Total co
 
 <p align="center">
 Show the updated Check Frequency value in the Health checking module: <br/>
-<img src="" height="80%" width="80%" alt="Section 3 Steps"/>
+<img src="https://i.imgur.com/HT14VS3.png" height="80%" width="80%" alt="Section 3 Steps"/>
 
 
 
@@ -185,7 +185,7 @@ Show the updated Check Frequency value in the Health checking module: <br/>
 
 <p align="center">
 Show the HAProxy Statistics Report with a host in a DOWN state, as well as the UP host having more total sessions (http_server_pool_ipvANY, Sessions> Total) than the DOWN host: <br/>
-<img src="" height="80%" width="80%" alt="Section 3 Steps"/>
+<img src="https://i.imgur.com/SGKZ0rr.png" height="80%" width="80%" alt="Section 3 Steps"/>
 
 
 
