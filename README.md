@@ -38,7 +38,7 @@ Project consists of configuring backup and recovery functions that support busin
 
 <p align="center">
 Show the completed Windows Server Backup feature installation: <br/>
-<img src="https://i.imgur.com/vOl1698.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/JjLOKmg.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
  <h2>Configure a System State Backup:</h2>
 
@@ -50,7 +50,7 @@ Show the completed Windows Server Backup feature installation: <br/>
 
 <p align="center">
 Show the Scheduled Backup settings, including the destination and backup time: <br/>
-<img src="https://i.imgur.com/XwjJhyd.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/AREuItx.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
  <h2>Restore from a System State Backup:</h2>
 
@@ -62,7 +62,7 @@ Show the Scheduled Backup settings, including the destination and backup time: <
 
 <p align="center">
 Show the Recovery Wizard Confirmation page: <br/>
-<img src="https://i.imgur.com/NSExaix.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/81cz1Nk.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
 
 
@@ -91,15 +91,15 @@ Show the Recovery Wizard Confirmation page: <br/>
 
 <p align="center">
 Show the results of the reverse DNS query: <br/>
-<img src="https://i.imgur.com/ecJbYqw.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/1Zl1pWv.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the updated webserver01 home page:  <br/>
-<img src="https://i.imgur.com/BsRoIqs.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/YzZD5Mn.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the updated webserver02 home page: <br/>
-<img src="https://i.imgur.com/EHO9XRj.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
  <h2>Configure Load Balancing:</h2>
@@ -115,15 +115,15 @@ Show the updated webserver02 home page: <br/>
 
 <p align="center">
 Show the http_server_pool backend: <br/>
-<img src="https://i.imgur.com/nEa7HCi.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the http_access frontend: <br/>
-<img src="https://i.imgur.com/y6hEdVl.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the new Host Overrides entry for cscd.securelabsondemand.com: <br/>
-<img src="https://i.imgur.com/wXze28n.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 <h2>Verify Load Balancing:</h2>
@@ -139,11 +139,11 @@ Show the new Host Overrides entry for cscd.securelabsondemand.com: <br/>
 
 <p align="center">
 Show the result of the DNS query for cscd.securelabsondemand.com: <br/>
-<img src="https://i.imgur.com/FEHtjzc.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the Statistics Report with a value of at least 1 in the Sessions > Total column of the http_server_pool_ipvANY box, for both webserver01 and webserver02: <br/>
-<img src="https://i.imgur.com/JhzNBit.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 
@@ -168,7 +168,7 @@ Show the Statistics Report with a value of at least 1 in the Sessions > Total co
 
 <p align="center">
 Show the updated Check Frequency value in the Health checking module: <br/>
-<img src="https://i.imgur.com/1iW9wqd.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="" height="80%" width="80%" alt="Section 3 Steps"/>
 
 
 
@@ -185,7 +185,7 @@ Show the updated Check Frequency value in the Health checking module: <br/>
 
 <p align="center">
 Show the HAProxy Statistics Report with a host in a DOWN state, as well as the UP host having more total sessions (http_server_pool_ipvANY, Sessions> Total) than the DOWN host: <br/>
-<img src="https://i.imgur.com/SoytFpe.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="" height="80%" width="80%" alt="Section 3 Steps"/>
 
 
 
